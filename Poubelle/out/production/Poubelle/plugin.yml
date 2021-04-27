@@ -1,0 +1,10 @@
+name: poubelle
+version: 1.0
+author: Laps
+main: fr.laps.poubelle.main
+
+commands:
+  poubelle:
+    description: Test
+    aliases: p
+

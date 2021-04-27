@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="serveur1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../pour mc/serveur/faction/serveur.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../pour mc/serveur/faction/serveur.jar!/" />
+    </SOURCES>
+  </library>
+</component>

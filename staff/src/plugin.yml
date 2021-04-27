@@ -1,0 +1,11 @@
+name: staff
+version: 1.0
+author: Laps
+main: fr.laps.moderation.Main
+
+commands:
+  staff:
+    description: Test
+  report:
+    description: Testa
+

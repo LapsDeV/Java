@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Poubelle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Poubelle_jar</output-path>
+    <root id="archive" name="Poubelle.jar">
+      <element id="module-output" name="Poubelle" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../pour mc/serveur/faction/serveur.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
